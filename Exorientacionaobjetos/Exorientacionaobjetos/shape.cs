@@ -12,6 +12,7 @@ namespace Exorientacionaobjetos
 
 
             class Rectángulo : shape
+
         {
             public override void Draw()
 
